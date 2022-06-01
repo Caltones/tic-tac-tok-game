@@ -1,0 +1,14 @@
+div.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  column-gap: 1rem;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 100vh;
+}
+body{
+  margin: 0%;
+}
+
